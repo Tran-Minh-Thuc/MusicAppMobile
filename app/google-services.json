@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "329514259161",
+    "firebase_url": "https://musicpro-f0a2c-default-rtdb.firebaseio.com",
+    "project_id": "musicpro-f0a2c",
+    "storage_bucket": "musicpro-f0a2c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:329514259161:android:fdc62d03f63c70c89664c8",
+        "android_client_info": {
+          "package_name": "com.pro.music"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfH7d3WAb2t8ZvNoaqA-Ai0iu2VYwzQNA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
